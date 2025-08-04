@@ -1,7 +1,8 @@
 Hi 👋 My name is Cailin
 =======================
 
-* 🌍  I'm based in Brisbane, Australia
+* 🌍  I'm in Brisbane, Australia
+* 🎓  Studying Software engineering / Business management as a dual degree 
 * ✉️  You can contact me at [cdelga1@outlook.com](mailto:cdelga1@outlook.com)
 
 ### Skills
