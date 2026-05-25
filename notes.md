@@ -41,7 +41,7 @@ Sagas:
 - Reliability
 	- There is an increased reliability because each service is independent, if one service goes down it will not take down other services
 - Security
-	- 
+	- isolated services mean a bigger surface area of attack, but also fault isolation if compromised
 
 #### Cons
 - Distributed Data Management (structural problem)
